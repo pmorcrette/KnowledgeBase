@@ -1,0 +1,15 @@
+# `$HOME/.config/helix/languages.toml`
+
+[language-server.iwe]
+command = "iwes"
+
+[[language]]
+name = "markdown"
+language-servers = ["iwe", "marksman"]
+# You can add other LSPs here, too:
+# language-servers = ["iwe", "marksman"]
+
+# NOTE: You may consider disabling 
+# autoformat if you're having issues 
+# with tables!
+auto-format = true

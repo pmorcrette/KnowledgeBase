@@ -1,7 +1,7 @@
 version = 3
 
 [markdown]
-refs_extension = ""
+refs_extension = ".md"
 date_format = "%b %d, %Y"
 
 [markdown.formatting]

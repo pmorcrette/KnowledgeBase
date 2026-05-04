@@ -26,5 +26,5 @@ HTML (HyperText Markup Language) is the standard markup language for creating we
 
 ## Related
 
-- [Web](../) - Parent directory
-- [CSS](../css.md) - Styling HTML (coming soon)
+- [Web](../README.md) - Parent directory
+- [CSS](../css/README.md) - Styling HTML (coming soon)

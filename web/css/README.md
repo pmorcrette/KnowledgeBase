@@ -24,5 +24,5 @@ CSS (Cascading Style Sheets) styles HTML documents. It controls layout, colors, 
 
 ## Related
 
-- [HTML](../html.md) - Document structure
-- [TypeScript](../typescript.md) - Coming soon
+- [HTML](../html/README.md) - Document structure
+- [TypeScript](../typescript/README.md) - Coming soon

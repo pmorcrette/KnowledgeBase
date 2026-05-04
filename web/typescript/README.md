@@ -22,6 +22,5 @@ TypeScript adds static typing to JavaScript. It compiles to plain JavaScript for
 
 ## Related
 
-- [JavaScript](../javascript) - Coming soon
-- [HTML](../html.md) - Document structure
-- [CSS](../css.md) - Styling
+- [HTML](../html/README.md) - Document structure
+- [CSS](../css/README.md) - Styling

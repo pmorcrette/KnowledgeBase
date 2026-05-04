@@ -21,22 +21,22 @@ Welcome to the knowledge base - a collection of documentation on various program
 
 | Topic                      | Description                                      |
 | -------------------------- | ------------------------------------------------ |
-| [POSIX Shell](shell/posix.md) | POSIX-compliant shell scripting (sh, dash, bash) |
-| [Nushell](shell/nushell.md) | Modern structured data shell |
+| [POSIX Shell](shell/posix/README.md) | POSIX-compliant shell scripting (sh, dash, bash) |
+| [Nushell](shell/nushell/README.md) | Modern structured data shell |
 
 ### Web
 
 | Topic                      | Description                                      |
 | -------------------------- | ------------------------------------------------ |
-| [HTML](web/html.md) | HyperText Markup Language |
-| [CSS](web/css.md) | Cascading Style Sheets |
-| [TypeScript](web/typescript.md) | Typed JavaScript |
+| [HTML](web/html/README.md) | HyperText Markup Language |
+| [CSS](web/css/README.md) | Cascading Style Sheets |
+| [TypeScript](web/typescript/README.md) | Typed JavaScript |
 
 ### Operations
 
 | Topic                      | Description                                      |
 | -------------------------- | ------------------------------------------------ |
-| [Kubernetes](ops/k8s.md) | Container orchestration |
+| [Kubernetes](ops/k8s/README.md) | Container orchestration |
 
 
 ## Index

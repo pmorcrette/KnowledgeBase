@@ -8,9 +8,9 @@ Topics covering web development technologies.
 
 | Topic | Description |
 |-------|-------------|
-| [HTML](html.md) | HyperText Markup Language |
-| [CSS](css.md) | Cascading Style Sheets |
-| [TypeScript](typescript.md) | Typed JavaScript |
+| [HTML](html/README.md) | HyperText Markup Language |
+| [CSS](css/README.md) | Cascading Style Sheets |
+| [TypeScript](typescript/README.md) | Typed JavaScript |
 
 ### HTML
 

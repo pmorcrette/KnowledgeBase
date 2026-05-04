@@ -1,6 +1,6 @@
 # Records
 
-Records are key-value collections like JSON objects. Related: [Types](02-types), [Tables](07-tables).
+Records are key-value collections like JSON objects. Related: [Types](02-types.md), [Tables](07-tables.md).
 
 ## Record Creation
 

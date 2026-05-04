@@ -1,6 +1,6 @@
 # Tables
 
-Tables are structured data with columns and rows. Related: [Records](06-records), [Lists](05-lists), [Pipelines](11-pipelines).
+Tables are structured data with columns and rows. Related: [Records](06-records.md), [Lists](05-lists.md), [Pipelines](11-pipelines.md).
 
 ## Table Creation
 

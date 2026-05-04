@@ -1,6 +1,6 @@
 # Functions
 
-Reusable code blocks. Use [Variables](01-variables) and can use [Arithmetic](09-arithmetic).
+Reusable code blocks. Use [Variables](01-variables.md) and can use [Arithmetic](09-arithmetic.md).
 
 ## Function Definition
 

@@ -1,6 +1,6 @@
 # Built-in Commands
 
-Common Nushell commands organized by category. Related: [Pipelines](11-pipelines), [I/O](12-io).
+Common Nushell commands organized by category. Related: [Pipelines](11-pipelines.md), [I/O](12-io.md).
 
 ## File System
 

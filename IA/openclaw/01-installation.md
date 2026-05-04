@@ -110,7 +110,7 @@ SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm install -g openclaw@latest
 
 ## Related
 
-- [Overview](00-overview)
-- [Onboarding](02-onboarding)
+- [Overview](00-overview.md)
+- [Onboarding](02-onboarding.md)
 - [Updating](/install/updating)
 - [Uninstall](/install/uninstall)

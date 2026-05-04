@@ -1,6 +1,6 @@
 # Data Types
 
-Nushell is a statically typed language with several built-in types. Related: [Variables](01-variables), [Strings](04-strings), [Lists](05-lists).
+Nushell is a statically typed language with several built-in types. Related: [Variables](01-variables.md), [Strings](04-strings.md), [Lists](05-lists.md).
 
 ## Basic Types
 

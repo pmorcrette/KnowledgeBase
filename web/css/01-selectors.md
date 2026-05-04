@@ -1,6 +1,6 @@
 # Selectors
 
-Selectors target HTML elements for styling. Related: [Box Model](04-box-model), [Cascading](07-cascade).
+Selectors target HTML elements for styling. Related: [Box Model](04-box-model.md), [Cascading](07-cascade.md).
 
 ## Basic Selectors
 
@@ -54,7 +54,7 @@ h1 ~ p { }
 :nth-of-type(odd) { }
 ```
 
-## Pseudo-elements (Related: [Box Model](04-box-model))
+## Pseudo-elements (Related: [Box Model](04-box-model.md))
 
 ```css
 ::before { }
@@ -63,7 +63,7 @@ h1 ~ p { }
 ::first-letter { }
 ```
 
-## Specificity (Related: [Cascading](07-cascade))
+## Specificity (Related: [Cascading](07-cascade.md))
 
 | Selectors | Specificity |
 |----------|------------|

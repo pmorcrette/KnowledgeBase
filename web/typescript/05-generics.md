@@ -1,6 +1,6 @@
 # Generics
 
-Reusable components with TypeScript generics. Related: [Functions](04-functions), [Advanced](10-advanced).
+Reusable components with TypeScript generics. Related: [Functions](04-functions.md), [Advanced](10-advanced.md).
 
 ## Generic Functions
 

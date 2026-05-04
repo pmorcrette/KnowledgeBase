@@ -1,6 +1,6 @@
 # Modules
 
-Importing and exporting code. Related: [Namespaces](08-namespaces), [Overview](00-overview).
+Importing and exporting code. Related: [Namespaces](08-namespaces.md), [Overview](00-overview.md).
 
 ## Export
 
@@ -48,7 +48,7 @@ export type { Order } from "./order";
 export * from "./utils";
 ```
 
-## CommonJS (Related: [Overview](00-overview))
+## CommonJS (Related: [Overview](00-overview.md))
 
 ```typescript
 // node.d.ts

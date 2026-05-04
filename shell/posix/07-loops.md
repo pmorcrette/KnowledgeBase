@@ -1,6 +1,6 @@
 # Loops
 
-Iteration constructs. Works with [Conditional Expressions](05-conditionals) and uses [Case Statements](06-case).
+Iteration constructs. Works with [Conditional Expressions](05-conditionals.md) and uses [Case Statements](06-case.md).
 
 ## For Loop
 

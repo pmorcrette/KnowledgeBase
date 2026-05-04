@@ -1,6 +1,6 @@
 # Errors and Debugging
 
-Related: [Control Flow](08-control-flow), [Pipelines](11-pipelines).
+Related: [Control Flow](08-control-flow.md), [Pipelines](11-pipelines.md).
 
 ## Try/Catch
 

@@ -143,8 +143,8 @@ openclaw doctor
 
 ## Related
 
-- [Overview](00-overview)
-- [Installation](01-installation)
-- [Onboarding](02-onboarding)
-- [Channels](04-channels)
-- [Configuration](08-configuration)
+- [Overview](00-overview.md)
+- [Installation](01-installation.md)
+- [Onboarding](02-onboarding.md)
+- [Channels](04-channels.md)
+- [Configuration](08-configuration.md)

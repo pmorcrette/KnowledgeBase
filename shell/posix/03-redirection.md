@@ -1,6 +1,6 @@
 # I/O Redirection
 
-Redirection controls input/output file descriptors. Works with [Pipes](04-pipes) and is essential for [Utilities](13-utilities).
+Redirection controls input/output file descriptors. Works with [Pipes](04-pipes.md) and is essential for [Utilities](13-utilities.md).
 
 ## File Descriptors
 

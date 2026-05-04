@@ -111,6 +111,6 @@ See [Channel troubleshooting](/channels/troubleshooting) for diagnosis.
 
 ## Related
 
-- [Overview](00-overview)
-- [Gateway](03-gateway)
-- [Security](09-security)
+- [Overview](00-overview.md)
+- [Gateway](03-gateway.md)
+- [Security](09-security.md)

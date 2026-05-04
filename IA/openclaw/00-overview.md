@@ -57,12 +57,12 @@ The OpenClaw data lives in:
 
 ## Related
 
-- [Installation](01-installation)
-- [Onboarding](02-onboarding)
-- [Gateway](03-gateway)
-- [Channels](04-channels)
-- [Tools](05-tools)
-- [Skills](06-skills)
-- [Plugins](07-plugins)
-- [Configuration](08-configuration)
-- [Security](09-security)
+- [Installation](01-installation.md)
+- [Onboarding](02-onboarding.md)
+- [Gateway](03-gateway.md)
+- [Channels](04-channels.md)
+- [Tools](05-tools.md)
+- [Skills](06-skills.md)
+- [Plugins](07-plugins.md)
+- [Configuration](08-configuration.md)
+- [Security](09-security.md)

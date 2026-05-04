@@ -1,6 +1,6 @@
 # Arithmetic
 
-Mathematical operations. Used in [Loops](07-loops) and [Functions](08-functions).
+Mathematical operations. Used in [Loops](07-loops.md) and [Functions](08-functions.md).
 
 ## Arithmetic Expansion
 

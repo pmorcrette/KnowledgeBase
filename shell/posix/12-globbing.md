@@ -1,6 +1,6 @@
 # Globbing
 
-Pattern matching for filenames. Works with [Loops](07-loops) and relates to [Case Statement](06-case).
+Pattern matching for filenames. Works with [Loops](07-loops.md) and relates to [Case Statement](06-case.md).
 
 ## Pattern Matching
 

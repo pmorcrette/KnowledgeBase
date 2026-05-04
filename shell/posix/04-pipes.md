@@ -1,6 +1,6 @@
 # Pipes and Command Sequences
 
-Pipes connect commands together. Works with [Redirection](03-redirection) and builds on [Conditionals](05-conditionals) for error handling.
+Pipes connect commands together. Works with [Redirection](03-redirection.md) and builds on [Conditionals](05-conditionals.md) for error handling.
 
 ## Pipeline
 

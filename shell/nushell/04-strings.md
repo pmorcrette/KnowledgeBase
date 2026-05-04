@@ -1,6 +1,6 @@
 # Strings
 
-String manipulation in Nushell. Related: [Types](02-types), [Regex](15-regex).
+String manipulation in Nushell. Related: [Types](02-types.md), [Regex](15-regex.md).
 
 ## String Creation
 

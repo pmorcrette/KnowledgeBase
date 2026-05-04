@@ -86,7 +86,7 @@ Use `group:*` shorthands:
 
 ## Related
 
-- [Overview](00-overview)
-- [Skills](06-skills)
-- [Plugins](07-plugins)
-- [Configuration](08-configuration)
+- [Overview](00-overview.md)
+- [Skills](06-skills.md)
+- [Plugins](07-plugins.md)
+- [Configuration](08-configuration.md)

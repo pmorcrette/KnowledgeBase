@@ -1,6 +1,6 @@
 # Attributes
 
-Attributes provide additional information about HTML elements. Related: [Elements](02-elements), [Forms](09-forms).
+Attributes provide additional information about HTML elements. Related: [Elements](02-elements.md), [Forms](09-forms.md).
 
 ## Syntax
 
@@ -59,7 +59,7 @@ Attributes provide additional information about HTML elements. Related: [Element
 </div>
 ```
 
-## Accessing in JavaScript (Related: [Forms](09-forms))
+## Accessing in JavaScript (Related: [Forms](09-forms.md))
 
 ```javascript
 element.dataset.userId

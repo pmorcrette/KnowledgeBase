@@ -1,6 +1,6 @@
 # Tables
 
-Tables display tabular data. Related: [Lists](07-lists), [Semantic](05-semantic).
+Tables display tabular data. Related: [Lists](07-lists.md), [Semantic](05-semantic.md).
 
 ## Basic Table
 

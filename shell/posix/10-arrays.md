@@ -1,6 +1,6 @@
 # Arrays (Bash/ksh Extension)
 
-Array operations. Bash extension building on [Variables](01-variables). Related: [Loops](07-loops), [String Operations](11-strings).
+Array operations. Bash extension building on [Variables](01-variables.md). Related: [Loops](07-loops.md), [String Operations](11-strings.md).
 
 ## Array Operations
 

@@ -1,6 +1,6 @@
 # Elements and Tags
 
-HTML elements are the building blocks of web pages. Related: [Attributes](03-attributes), [Structure](01-structure).
+HTML elements are the building blocks of web pages. Related: [Attributes](03-attributes.md), [Structure](01-structure.md).
 
 ## Element Anatomy
 

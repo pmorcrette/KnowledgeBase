@@ -156,7 +156,7 @@ Plugins run in-process with the Gateway:
 
 ## Related
 
-- [Overview](00-overview)
-- [Gateway](03-gateway)
-- [Channels](04-channels)
-- [Configuration](08-configuration)
+- [Overview](00-overview.md)
+- [Gateway](03-gateway.md)
+- [Channels](04-channels.md)
+- [Configuration](08-configuration.md)

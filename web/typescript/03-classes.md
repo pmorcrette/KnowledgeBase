@@ -1,6 +1,6 @@
 # Classes
 
-Object-oriented programming in TypeScript. Related: [Interfaces](02-interfaces), [Advanced](10-advanced).
+Object-oriented programming in TypeScript. Related: [Interfaces](02-interfaces.md), [Advanced](10-advanced.md).
 
 ## Class Definition
 

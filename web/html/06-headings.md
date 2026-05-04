@@ -1,6 +1,6 @@
 # Headings and Paragraphs
 
-Headings define the document outline. Paragraphs contain text content. Related: [Formatting](04-formatting), [Semantic](05-semantic).
+Headings define the document outline. Paragraphs contain text content. Related: [Formatting](04-formatting.md), [Semantic](05-semantic.md).
 
 ## Headings
 

@@ -1,6 +1,6 @@
 # CSS Variables
 
-CSS custom properties for reusable values. Related: [Colors](02-colors-units), [Selectors](01-selectors).
+CSS custom properties for reusable values. Related: [Colors](02-colors-units.md), [Selectors](01-selectors.md).
 
 ## Defining Variables
 

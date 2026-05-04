@@ -1,6 +1,6 @@
 # Lists
 
-HTML provides several list types for different content organization. Related: [Semantic](05-semantic), [Formatting](04-formatting).
+HTML provides several list types for different content organization. Related: [Semantic](05-semantic.md), [Formatting](04-formatting.md).
 
 ## Unordered List
 

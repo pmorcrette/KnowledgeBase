@@ -1,6 +1,6 @@
 # Regex and Patterns
 
-Related: [Strings](04-strings), [Control Flow](08-control-flow).
+Related: [Strings](04-strings.md), [Control Flow](08-control-flow.md).
 
 ## Regex Matching
 

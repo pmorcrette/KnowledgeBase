@@ -1,6 +1,6 @@
 # Interfaces
 
-Interfaces define object shapes and contracts. Related: [Types](01-types), [Classes](03-classes).
+Interfaces define object shapes and contracts. Related: [Types](01-types.md), [Classes](03-classes.md).
 
 ## Basic Interface
 

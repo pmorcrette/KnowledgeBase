@@ -1,6 +1,6 @@
 # Pipelines
 
-Nushell's core design - data flows through commands. Related to [Lists](05-lists), [Tables](07-tables), [Commands](14-commands).
+Nushell's core design - data flows through commands. Related to [Lists](05-lists.md), [Tables](07-tables.md), [Commands](14-commands.md).
 
 ## Pipeline Basics
 
@@ -56,7 +56,7 @@ $items | sort | take 5
 
 ### Error Handling
 
-Related: [Errors](16-errors).
+Related: [Errors](16-errors.md).
 
 ### Generators
 

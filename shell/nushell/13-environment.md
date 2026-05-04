@@ -1,6 +1,6 @@
 # Environment
 
-Related: [I/O](12-io), [Modules](10-modules).
+Related: [I/O](12-io.md), [Modules](10-modules.md).
 
 ## Environment Variables
 

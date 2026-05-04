@@ -85,7 +85,7 @@ openclaw gateway status # Check Gateway is running
 
 ## Related
 
-- [Overview](00-overview)
-- [Installation](01-installation)
-- [Gateway](03-gateway)
-- [Channels](04-channels)
+- [Overview](00-overview.md)
+- [Installation](01-installation.md)
+- [Gateway](03-gateway.md)
+- [Channels](04-channels.md)

@@ -9,7 +9,7 @@ Semantic HTML elements clearly describe their meaning to browser and developer.
 - **Maintainability**: Code is self-documenting
 - **Future-proof**: Standardized meaning
 
-## Semantic Structure Elements (Related: [Structure](01-structure))
+## Semantic Structure Elements (Related: [Structure](01-structure.md))
 
 ```html
 <header>Header content</header>

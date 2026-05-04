@@ -1,6 +1,6 @@
 # Custom Commands
 
-Custom commands are first-class commands in Nushell. Related: [Modules](10-modules), [Control Flow](08-control-flow).
+Custom commands are first-class commands in Nushell. Related: [Modules](10-modules.md), [Control Flow](08-control-flow.md).
 
 ## Basic Command
 

@@ -1,6 +1,6 @@
 # Portable Shell Programming
 
-Writing portable POSIX scripts. Related: [Best Practices](14-best-practices), [Resources](16-resources) (ShellCheck).
+Writing portable POSIX scripts. Related: [Best Practices](14-best-practices.md), [Resources](16-resources.md) (ShellCheck).
 
 ## Check for POSIX Compliance
 

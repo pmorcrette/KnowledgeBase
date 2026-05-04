@@ -1,6 +1,6 @@
 # Layout
 
-CSS layout techniques for positioning elements. Related: [Box Model](04-box-model), [Responsive](09-responsive).
+CSS layout techniques for positioning elements. Related: [Box Model](04-box-model.md), [Responsive](09-responsive.md).
 
 ## Display
 
@@ -70,7 +70,7 @@ CSS layout techniques for positioning elements. Related: [Box Model](04-box-mode
 }
 ```
 
-### Grid Properties (Related: [Responsive](09-responsive))
+### Grid Properties (Related: [Responsive](09-responsive.md))
 
 ```css
 .container {

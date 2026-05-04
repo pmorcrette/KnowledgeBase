@@ -1,6 +1,6 @@
 # Case Statement
 
-Patternmatching switch statement. Alternative to [Conditional Expressions](05-conditionals).
+Patternmatching switch statement. Alternative to [Conditional Expressions](05-conditionals.md).
 
 ```sh
 case $var in

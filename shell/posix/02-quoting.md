@@ -1,6 +1,6 @@
 # Quoting
 
-Quoting controls how the shell interprets special characters. Essential for working with [Variables](01-variables) and [String Operations](11-strings).
+Quoting controls how the shell interprets special characters. Essential for working with [Variables](01-variables.md) and [String Operations](11-strings.md).
 
 ## Types of Quoting
 

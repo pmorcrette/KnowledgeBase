@@ -1,6 +1,6 @@
 # Text Formatting
 
-Inline elements for formatting text. Related: [Headings](06-headings), [Semantic](05-semantic).
+Inline elements for formatting text. Related: [Headings](06-headings.md), [Semantic](05-semantic.md).
 
 ## Basic Formatting
 

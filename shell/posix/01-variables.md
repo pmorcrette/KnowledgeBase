@@ -1,6 +1,6 @@
 # Variables and Parameters
 
-Variable assignment and parameter expansion are fundamental to POSIX shell scripting. See also: [Quoting](02-quoting), [Functions](08-functions), [Arithmetic](09-arithmetic).
+Variable assignment and parameter expansion are fundamental to POSIX shell scripting. See also: [Quoting](02-quoting.md), [Functions](08-functions.md), [Arithmetic](09-arithmetic.md).
 
 ## Variable Assignment
 

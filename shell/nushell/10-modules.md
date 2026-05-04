@@ -1,6 +1,6 @@
 # Modules
 
-Modules organize code into reusable units. Related: [Commands](09-commands), [Environment](13-environment).
+Modules organize code into reusable units. Related: [Commands](09-commands.md), [Environment](13-environment.md).
 
 ## Creating Modules
 

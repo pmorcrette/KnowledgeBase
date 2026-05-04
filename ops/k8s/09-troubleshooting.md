@@ -120,12 +120,12 @@ kubectl get pods --field-selector=status.phase=Running
 
 ## Related Documentation
 
-- [Overview](00-overview) - Kubernetes architecture and concepts
-- [Installation](01-installation) - Setting up kubectl and clusters
-- [Resources](02-resources) - Core Kubernetes objects (Pods, Deployments, Services)
-- [Networking](03-networking) - Services, Ingress, Network Policies
-- [Storage](04-storage) - Volumes and persistent storage
-- [Configuration](05-configuration) - ConfigMaps, Secrets, Helm, Kustomize
-- [Scheduling](06-scheduling) - Node affinity, taints, resource management
-- [Security](07-security) - RBAC, Pod Security, image scanning
-- [Monitoring & Logging](08-monitoring-logging) - Metrics, logging, observability
+- [Overview](00-overview.md) - Kubernetes architecture and concepts
+- [Installation](01-installation.md) - Setting up kubectl and clusters
+- [Resources](02-resources.md) - Core Kubernetes objects (Pods, Deployments, Services)
+- [Networking](03-networking.md) - Services, Ingress, Network Policies
+- [Storage](04-storage.md) - Volumes and persistent storage
+- [Configuration](05-configuration.md) - ConfigMaps, Secrets, Helm, Kustomize
+- [Scheduling](06-scheduling.md) - Node affinity, taints, resource management
+- [Security](07-security.md) - RBAC, Pod Security, image scanning
+- [Monitoring & Logging](08-monitoring-logging.md) - Metrics, logging, observability

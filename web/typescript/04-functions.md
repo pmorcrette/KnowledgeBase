@@ -1,6 +1,6 @@
 # Functions
 
-Function types and patterns in TypeScript. Related: [Types](01-types), [Generics](05-generics).
+Function types and patterns in TypeScript. Related: [Types](01-types.md), [Generics](05-generics.md).
 
 ## Function Types
 

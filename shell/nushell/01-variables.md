@@ -1,6 +1,6 @@
 # Variables
 
-Nushell uses `$` prefix for variables. Variables are immutable by default. Related: [Types](02-types), [Operators](03-operators).
+Nushell uses `$` prefix for variables. Variables are immutable by default. Related: [Types](02-types.md), [Operators](03-operators.md).
 
 ## Variable Declaration
 

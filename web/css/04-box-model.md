@@ -1,6 +1,6 @@
 # Box Model
 
-Every element is a rectangular box with content, padding, border, and margin. Related: [Layout](05-layout), [Background](08-background).
+Every element is a rectangular box with content, padding, border, and margin. Related: [Layout](05-layout.md), [Background](08-background.md).
 
 ## Box Model Layers
 
@@ -46,7 +46,7 @@ Every element is a rectangular box with content, padding, border, and margin. Re
 }
 ```
 
-## Box-sizing (Related: [Layout](05-layout))
+## Box-sizing (Related: [Layout](05-layout.md))
 
 ```css
 /* Default: content-box */

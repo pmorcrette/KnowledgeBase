@@ -113,8 +113,8 @@ openclaw doctor --fix  # Auto-fix issues
 
 ## Related
 
-- [Overview](00-overview)
-- [Gateway](03-gateway)
-- [Tools](05-tools)
-- [Skills](06-skills)
-- [Plugins](07-plugins)
+- [Overview](00-overview.md)
+- [Gateway](03-gateway.md)
+- [Tools](05-tools.md)
+- [Skills](06-skills.md)
+- [Plugins](07-plugins.md)

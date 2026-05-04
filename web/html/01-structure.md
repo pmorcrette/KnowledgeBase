@@ -1,6 +1,6 @@
 # Document Structure
 
-The skeleton of an HTML document. Related: [Elements](02-elements), [Semantic](05-semantic).
+The skeleton of an HTML document. Related: [Elements](02-elements.md), [Semantic](05-semantic.md).
 
 ## Required Elements
 
@@ -39,7 +39,7 @@ The skeleton of an HTML document. Related: [Elements](02-elements), [Semantic](0
 </head>
 ```
 
-## Semantic Structure (Related: [Semantic Elements](05-semantic))
+## Semantic Structure (Related: [Semantic Elements](05-semantic.md))
 
 ```html
 <body>

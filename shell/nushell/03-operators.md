@@ -1,6 +1,6 @@
 # Operators
 
-Nushell supports various operators for comparison, arithmetic, and more. Related to [Types](02-types), [Control Flow](08-control-flow).
+Nushell supports various operators for comparison, arithmetic, and more. Related to [Types](02-types.md), [Control Flow](08-control-flow.md).
 
 ## Arithmetic Operators
 

@@ -1,6 +1,6 @@
 # Typography
 
-CSS text and font properties. Related: [Layout](05-layout), [Colors](02-colors-units).
+CSS text and font properties. Related: [Layout](05-layout.md), [Colors](02-colors-units.md).
 
 ## Font Properties
 

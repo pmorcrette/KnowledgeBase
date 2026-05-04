@@ -1,6 +1,6 @@
 # Forms
 
-Forms collect user input and submit data to a server. Related: [Attributes](03-attributes), [Tables](10-tables), [Media](11-media).
+Forms collect user input and submit data to a server. Related: [Attributes](03-attributes.md), [Tables](10-tables.md), [Media](11-media.md).
 
 ## Basic Form
 
@@ -62,7 +62,7 @@ Forms collect user input and submit data to a server. Related: [Attributes](03-a
 <button type="button">Custom</button>
 ```
 
-## Input Attributes (Related: [Attributes](03-attributes))
+## Input Attributes (Related: [Attributes](03-attributes.md))
 
 ```html
 <input type="text" 

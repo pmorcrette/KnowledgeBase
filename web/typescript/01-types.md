@@ -1,6 +1,6 @@
 # Types
 
-TypeScript's basic and composite types. Related: [Interfaces](02-interfaces), [Functions](04-functions).
+TypeScript's basic and composite types. Related: [Interfaces](02-interfaces.md), [Functions](04-functions.md).
 
 ## Basic Types
 

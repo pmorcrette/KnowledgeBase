@@ -1,6 +1,6 @@
 # String Operations
 
-Text manipulation. Works with [Variables](01-variables) (parameter expansion) and [Quoting](02-quoting).
+Text manipulation. Works with [Variables](01-variables.md) (parameter expansion) and [Quoting](02-quoting.md).
 
 ## Parameter Expansion for Strings
 

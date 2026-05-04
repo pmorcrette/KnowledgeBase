@@ -1,6 +1,6 @@
 # Global Attributes
 
-Attributes available on all HTML elements. Related: [Attributes](03-attributes), [Forms](09-forms).
+Attributes available on all HTML elements. Related: [Attributes](03-attributes.md), [Forms](09-forms.md).
 
 ## All HTML Elements Support
 

@@ -1,6 +1,6 @@
 # Lists
 
-Lists are ordered, indexable collections. Related: [Types](02-types), [Tables](07-tables), [Pipelines](11-pipelines).
+Lists are ordered, indexable collections. Related: [Types](02-types.md), [Tables](07-tables.md), [Pipelines](11-pipelines.md).
 
 ## List Creation
 

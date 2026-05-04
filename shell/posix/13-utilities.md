@@ -1,6 +1,6 @@
 # Common Utilities
 
-Essential command-line tools. Many use [Redirection](03-redirection) and [Pipes](04-pipes).
+Essential command-line tools. Many use [Redirection](03-redirection.md) and [Pipes](04-pipes.md).
 
 ## echo and printf
 

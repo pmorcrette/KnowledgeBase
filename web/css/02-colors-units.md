@@ -1,6 +1,6 @@
 # Colors and Units
 
-CSS supports various color formats and measurement units. Related: [Variables](06-variables), [Typography](03-typography).
+CSS supports various color formats and measurement units. Related: [Variables](06-variables.md), [Typography](03-typography.md).
 
 ## Color Formats
 
@@ -46,7 +46,7 @@ margin: 1rem;
 font-size: 1.5em;
 ```
 
-## CSS Variables (Related: [Variables](06-variables))
+## CSS Variables (Related: [Variables](06-variables.md))
 
 ```css
 :root {

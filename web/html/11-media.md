@@ -1,6 +1,6 @@
 # Images and Media
 
-Embedding images and media content in HTML. Related: [Links](08-links), [Semantic](05-semantic).
+Embedding images and media content in HTML. Related: [Links](08-links.md), [Semantic](05-semantic.md).
 
 ## Images
 

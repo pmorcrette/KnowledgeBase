@@ -1,6 +1,6 @@
 # Namespaces
 
-Organizing code with namespaces. Related: [Modules](07-modules), [Errors](09-errors).
+Organizing code with namespaces. Related: [Modules](07-modules.md), [Errors](09-errors.md).
 
 ## Declaration
 

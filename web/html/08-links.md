@@ -1,6 +1,6 @@
 # Links
 
-Links connect pages and resources on the web. Related: [Semantic](05-semantic), [Structure](01-structure).
+Links connect pages and resources on the web. Related: [Semantic](05-semantic.md), [Structure](01-structure.md).
 
 ## Anchor Element
 

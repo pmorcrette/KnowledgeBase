@@ -1,6 +1,6 @@
 # Enums and Type Guards
 
-Constants and discriminated unions. Related: [Types](01-types), [Advanced](10-advanced).
+Constants and discriminated unions. Related: [Types](01-types.md), [Advanced](10-advanced.md).
 
 ## Numeric Enums
 

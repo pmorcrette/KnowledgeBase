@@ -1,6 +1,6 @@
 # Conditional Expressions
 
-Control flow with test conditions. See also: [Case Statement](06-case), [Loops](07-loops).
+Control flow with test conditions. See also: [Case Statement](06-case.md), [Loops](07-loops.md).
 
 ## Test Command
 

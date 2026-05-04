@@ -1,8 +1,8 @@
 # Metadata
 
-Metadata provides information about the document. Related: [Structure](01-structure), [Elements](02-elements).
+Metadata provides information about the document. Related: [Structure](01-structure.md), [Elements](02-elements.md).
 
-## Head Element (Related: [Structure](01-structure))
+## Head Element (Related: [Structure](01-structure.md))
 
 ```html
 <head>

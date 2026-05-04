@@ -1,6 +1,6 @@
 # Scripting Best Practices
 
-Guidelines for writing robust shell scripts. Includes uses of: [Variables](01-variables), [Functions](08-functions), [Case Statements](06-case), [Arithmetic](09-arithmetic).
+Guidelines for writing robust shell scripts. Includes uses of: [Variables](01-variables.md), [Functions](08-functions.md), [Case Statements](06-case.md), [Arithmetic](09-arithmetic.md).
 
 ## Shebang
 

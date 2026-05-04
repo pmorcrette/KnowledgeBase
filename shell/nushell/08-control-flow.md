@@ -1,6 +1,6 @@
 # Control Flow
 
-Related: [Operators](03-operators), [Commands](09-commands).
+Related: [Operators](03-operators.md), [Commands](09-commands.md).
 
 ## If/Else
 
